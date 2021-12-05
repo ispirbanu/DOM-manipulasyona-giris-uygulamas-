@@ -1,0 +1,36 @@
+.container{
+    height:210px;
+    width: 180px;
+}
+#buton{
+    width: 170px;
+    margin-bottom: 10px;;
+}
+
+#btnpurple{
+    background-color: purple;
+    color: white;
+    margin-right: 5px;;
+}
+#btngreen{
+    background-color: green;
+    color: white;
+    margin-right: 5px;;
+}
+#btnblack{
+    background-color: black;
+    color: white;
+    margin-right: 5px;;
+}
+#notepad{
+    margin-top: 10px;
+    height: 200px;
+    width: 170px;
+    resize: none;
+}
+#clear{
+    position: absolute;
+    left: 8px;
+    top: 280px;
+    width: 176px;
+}
